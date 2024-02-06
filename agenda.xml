@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <agenda>
+        <contacto id='02'>
+            <nombre>Carlos</nombre>
+            <apellido>González</apellido>
+            <emails>
+                <email>carlos@gmail.com</email>
+                <email>gonzalez@gmail.com</email>
+            </emails>
+            <telefonos>
+                <telefono>123456789</telefono>
+                <telefono>987654321</telefono>
+            </telefonos>
+        </contacto>
+
+
+    </agenda>
