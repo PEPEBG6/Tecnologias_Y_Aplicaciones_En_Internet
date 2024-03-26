@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texto>
+    
+    <Empleado1>
+        <datosPersonales>
+            <No.Empleado>26</No.Empleado>
+            <nombre>José Luis</nombre>
+            <apellidos>Bernardo Gutiérrez</apellidos>
+            <fechaNac>26/11/2002</fechaNac>
+        </datosPersonales>
+
+        <detalleLaboral>
+            <puesto>Gerente</puesto>
+            <departamento>Administración</departamento>
+        </detalleLaboral>
+    </Empleado1>
+
+    <Empleado2>
+        <datosPersonales>
+            <No.Empleado>27</No.Empleado>
+            <nombre>José Andres</nombre>
+            <apellidos>Hernandez Valdez</apellidos>
+            <fechaNac>03/03/2000</fechaNac>
+        </datosPersonales>
+
+        <detalleLaboral>
+            <puesto>Ign.Sistemas</puesto>
+            <departamento>Sistemas</departamento>
+        </detalleLaboral>
+    </Empleado2>
+
+    <Empleado3>
+        <datosPersonales>
+            <No.Empleado>28</No.Empleado>
+            <nombre>José Alberto</nombre>
+            <apellidos>Gomez Utrera</apellidos>
+            <fechaNac>11/04/1994</fechaNac>
+        </datosPersonales>
+
+        <detalleLaboral>
+            <puesto>Mecatronico en robots</puesto>
+            <departamento>Fabricación</departamento>
+        </detalleLaboral>
+    </Empleado3>
+    
+</texto>

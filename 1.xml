@@ -1,0 +1,38 @@
+<envasado>
+  <contenedores>
+    <contenedor>
+      <tipo>Grandes</tipo>
+      <acepta_envases>Grande ancho, Grande alto, Verticales</acepta_envases>
+    </contenedor>
+    <contenedor>
+      <tipo>Medianos</tipo>
+      <acepta_envases>Mediano ancho, Mediano alto</acepta_envases>
+    </contenedor>
+    <contenedor>
+      <tipo>Verticales</tipo>
+      <acepta_envases>Grande ancho, Grande alto, Verticales</acepta_envases>
+    </contenedor>
+  </contenedores>
+  <envases>
+    <envase>
+      <tipo>Grande ancho</tipo>
+      <liquidos_validos>Agua, Leche, Vinagre, Alcohol</liquidos_validos>
+    </envase>
+    <envase>
+      <tipo>Grande alto</tipo>
+      <liquidos_validos>Agua, Leche, Vinagre, Alcohol</liquidos_validos>
+    </envase>
+    <envase>
+      <tipo>Mediano ancho</tipo>
+      <liquidos_validos>Agua, Leche, Lejía, Jabón, Vinagre, Aceite, Alcohol</liquidos_validos>
+    </envase>
+    <envase>
+      <tipo>Mediano alto</tipo>
+      <liquidos_validos>Lejía, Jabón, Aguarrás, Gasolina, Aceite, Alcohol</liquidos_validos>
+    </envase>
+    <envase>
+      <tipo>Pequeño</tipo>
+      <liquidos_validos>Lejía, Jabón, Aguarrás, Gasolina, Aceite, Vinagre, Alcohol</liquidos_validos>
+    </envase>
+  </envases>
+</envasado>

@@ -1,0 +1,41 @@
+{
+    "envasado": {
+      "contenedores": [
+        {
+          "tipo": "Grandes",
+          "acepta_envases": ["Grande ancho", "Grande alto", "Verticales"]
+        },
+        {
+          "tipo": "Medianos",
+          "acepta_envases": ["Mediano ancho", "Mediano alto"]
+        },
+        {
+          "tipo": "Verticales",
+          "acepta_envases": ["Grande ancho", "Grande alto", "Verticales"]
+        }
+      ],
+      "envases": [
+        {
+          "tipo": "Grande ancho",
+          "liquidos_validos": ["Agua", "Leche", "Vinagre", "Alcohol"]
+        },
+        {
+          "tipo": "Grande alto",
+          "liquidos_validos": ["Agua", "Leche", "Vinagre", "Alcohol"]
+        },
+        {
+          "tipo": "Mediano ancho",
+          "liquidos_validos": ["Agua", "Leche", "Lejía", "Jabón", "Vinagre", "Aceite", "Alcohol"]
+        },
+        {
+          "tipo": "Mediano alto",
+          "liquidos_validos": ["Lejía", "Jabón", "Aguarrás", "Gasolina", "Aceite", "Alcohol"]
+        },
+        {
+          "tipo": "Pequeño",
+          "liquidos_validos": ["Lejía", "Jabón", "Aguarrás", "Gasolina", "Aceite", "Vinagre", "Alcohol"]
+        }
+      ]
+    }
+  }
+  

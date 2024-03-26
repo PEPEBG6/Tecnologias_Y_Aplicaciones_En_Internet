@@ -1,0 +1,44 @@
+{
+
+    "Empelado1":{
+        "No.Empleado": 26,
+        "nombre": "José Luis",
+        "apellido": "Bernardo Gutierrez",
+        "FechaNacimiento": "26/11/2002",
+
+
+        "Detalle Laboral": {
+            
+            "Puesto":"Gerente",
+            "Departamento":"Administración"
+        }
+    },
+
+    "Empelado2":{
+        "No.Empleado": 27,
+        "nombre": "José Andres",
+        "apellido": "Hernandez Valdez",
+        "FechaNacimiento": "03/03/2000",
+
+
+        "Detalle Laboral": {
+            
+            "Puesto":"Ign.Sistemas",
+            "Departamento":"Sistemas"
+        }
+    },
+
+    "Empelado3":{
+        "No.Empleado": 28,
+        "nombre": "José Alberto",
+        "apellido": "Gomez Utrera",
+        "FechaNacimiento": "11/04/1994",
+
+
+        "Detalle Laboral": {
+            
+            "Puesto":"Mecatronico en robots",
+            "Departamento":"Fabricación"
+        }
+    }
+}
