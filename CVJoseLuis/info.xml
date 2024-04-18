@@ -1,0 +1,31 @@
+<resume>
+    <personal-info>
+        <name>José Luis Bernardo Gutiérrez</name>
+        <estudio>ESTUDIANTE EN ING. en SISTEMAS COMPUTACIONALES</estudio>
+        <email>joseluis@gmail.com</email>
+        <phone>4427150648</phone>
+        <ubi>Av. Tabasco S/N, Col San Isidro Miranda 76246, El Marqués, Qro</ubi>
+        <languages>
+            <language>Español (nativo)</language>
+            <language>Inglés (B1)</language>
+        </languages>
+    </personal-info>
+    <education>
+        <prepa>Colegio de Bachilleres del Estado de Querétaro (Técnico en Redes y Telecomunicaciones 2017-2020)</prepa>
+        <universiadad>Universidad Politécnica de Querétaro(Licenciatura en Ingeniería en Sistemas Computacionales 2021-Actual)</universiadad>
+    </education>
+    <experience>
+        Soy un estudiante entusiasta con una sólida formación académica y con una gran motivación para crecer en el campo de Sistemas Computacionales. Interesado y apasionado por el área de base de datos, redes y programación. Busco una oportunidad para aplicar mi conocimiento y contribuir de manera eficiente en el entorno profesional.
+    </experience>
+    <about-me>
+        <description>Soy una persona responsable, formal, con un alto sentido de compromiso, enfocado a lograr resultados en las tareas asignadas.
+            Me destaco por ser extrovertido, empático y proactivo.
+        </description>
+    </about-me>
+    <skills>
+        <skill>Trabajo en equipo</skill>
+        <skill>Liderazgo</skill>
+        <skill>Comunicación asertiva</skill>
+        <skill>Capacidad de análisis y resolución de problemas</skill>
+    </skills>
+</resume>

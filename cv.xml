@@ -1,0 +1,52 @@
+<curriculum>
+    <informacion_personal>
+        <nombre>Bernardo Gutierrez José Luis</nombre>
+        <profesion>ESTUDIANTE EN ING. EN SISTEMAS COMPUTACIONALES</profesion>
+    </informacion_personal>
+
+    <contacto>
+        <celular>4427150648</celular>
+        <correo>joseluis.jb89@gmail.com</correo>
+        <direccion>Av. Tabasco S/N, Col San Isidro Miranda 76246, El Marqués, Qro</direccion>
+    </contacto>
+
+    <idiomas>
+        <idioma>
+            <nombre>Español</nombre>
+            <nivel>Idioma nativo</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Ingles</nombre>
+            <nivel>Intermedio (B1)</nivel>
+        </idioma>
+    </idiomas>
+
+    <educacion>
+        <institucion>Colegio de Bachilleres del Estado de Querétaro</institucion>
+        <titulo>Técnico en Redes y Telecomunicaciones</titulo>
+        <periodo>2017-2020</periodo>
+    </educacion>
+    <educacion>
+        <institucion>Universidad Politécnica de Querétaro</institucion>
+        <titulo>Licenciatura en Ingeniería en Sistemas Computacionales</titulo>
+        <periodo>2021-Actual</periodo>
+    </educacion>
+
+    <acerca_de_mi>
+        <descripcion>Soy una persona responsable, formal, con un alto sentido de compromiso, enfocado a lograr resultados en las tareas asignadas. Me destaco por ser extrovertido, empático y proactivo.</descripcion>
+    </acerca_de_mi>
+
+    <experiencia_profesional>
+        <descripcion>Soy un estudiante entusiasta con una solida formación académica y con una gran motivación para crecer en el campo de Sistemas Computacionales. Interesado y apasionado por el área de base de datos, redes y programación. Busco una oportunidad para aplicar mi conocimiento y contribuir de manera eficiente en el entorno profesional.</descripcion>
+    </experiencia_profesional>
+
+    <habilidades>
+        <habilidad>Trabajo en equipo</habilidad>
+        <habilidad>Liderazgo</habilidad>
+        <habilidad>Comunicación asertiva</habilidad>
+        <habilidad>Capacidad de análisis y resolución de problemas</habilidad>
+        <habilidad>Uso de herramientas tecnológicas</habilidad>
+        <habilidad>Capacidad de aprendizaje</habilidad>
+        <habilidad>Relaciones interpersonales</habilidad>
+    </habilidades>
+</curriculum>
